@@ -11,6 +11,10 @@
 # Output files from R CMD build
 /*.tar.gz
 
+
+# Output files from json
+/*.json
+
 # Output files from R CMD check
 /*.Rcheck/
 
